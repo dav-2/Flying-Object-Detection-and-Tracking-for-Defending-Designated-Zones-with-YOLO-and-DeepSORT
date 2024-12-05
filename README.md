@@ -4,6 +4,8 @@ This demo project focuses on developing an AI-powered system designed to detect,
 
 The system's core objective is to monitor and respond to specific objects entering the ROI while ignoring others, ensuring a targeted and efficient defense mechanism that can be adapted to various contexts. It leverages YOLO (You Only Look Once) for object detection and DeepSORT (Simple Online and Realtime Tracking with a Deep Association Metric) for tracking across frames.  
 
+🎥 𝐃𝐞𝐦𝐨 𝐨𝐧 𝐘𝐨𝐮𝐓𝐮𝐛𝐞: [Watch the demo](https://youtu.be/rXC1RlrYS88)
+
 🚀 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:
 
 𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧, 𝐃𝐢𝐬𝐜𝐫𝐢𝐦𝐢𝐧𝐚𝐭𝐢𝐨𝐧, 𝐚𝐧𝐝 𝐓𝐫𝐚𝐜𝐤𝐢𝐧𝐠  
