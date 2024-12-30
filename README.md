@@ -1,4 +1,4 @@
-# Flying Object Detection and Tracking for Defending Designated Zones with YOLO and DeepSORT
+# Flying Object Detection and Tracking for Defending Designated Zones using YOLO and DeepSORT
 
 This demo project focuses on developing an AI-powered system designed to detect, track, and classify flying objects in real time, with the primary goal of defending a designated Region of Interest (ROI) from a specific type of object—in this example, birds. By combining deep learning models and tracking algorithms, the system processes video feeds to differentiate between target objects (birds) and non-target objects (such as aircraft).
 
